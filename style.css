@@ -5,3 +5,8 @@
   --dark-blue-alpha: rgba(27, 27, 50, 0.8);
   --color-green: #37af65;
 }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
